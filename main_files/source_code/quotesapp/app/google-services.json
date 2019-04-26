@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "786524552260",
+    "firebase_url": "https://wise-quotes-1025.firebaseio.com",
+    "project_id": "wise-quotes-1025",
+    "storage_bucket": "wise-quotes-1025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786524552260:android:507fb1969bb1d8a8",
+        "android_client_info": {
+          "package_name": "com.mobitechstudio.wise.quotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786524552260-961cregp6guni2ronju4fieno5388sbr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobitechstudio.wise.quotes",
+            "certificate_hash": "a46d2c4c3da6b22cfa794c108cbd4d3e2cec4c5d"
+          }
+        },
+        {
+          "client_id": "786524552260-u3nsn0f8blcjdiqg6d14ch9bfuop66q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo2tEmPyEAEOuVz9mDmAcXtH9KBAs0R88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786524552260-u3nsn0f8blcjdiqg6d14ch9bfuop66q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

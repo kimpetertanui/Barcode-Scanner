@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/lytPagerContainer"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/lyt_tagline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_8dp"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <com.mobitechstudio.wise.quotes.view.PhenomenaTextView
+            android:id="@+id/txt_category_quote"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_14dp"
+            android:layout_weight="1"
+            android:text="@string/category_quotes"
+            android:textColor="@color/black"
+            android:textSize="19sp" />
+
+        <com.mobitechstudio.wise.quotes.view.PhenomenaTextView
+            android:id="@+id/txt_see_all_category"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="@dimen/margin_14dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:gravity="center"
+            android:text="@string/see_all"
+            android:textColor="@color/colorAccent"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rvCategories"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lyt_tagline"
+        android:layout_marginEnd="@dimen/margin_10dp"
+        android:layout_marginStart="@dimen/margin_14dp"
+        android:layout_marginTop="@dimen/margin_8dp"
+        android:nestedScrollingEnabled="false"
+        tools:targetApi="lollipop" />
+
+</RelativeLayout>

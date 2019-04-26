@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF3F80</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="colorPrimary21">#cccccc</color>
+    <color name="colorAccent21">#651FFF</color>
+
+    <!--Common colors-->
+    <color name="bg_splash">#FFFFFF</color>
+    <color name="page_bg">#F7F5F6</color>
+    <color name="page_bg_dim">#FAFAFA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#EF5350</color>
+    <color name="transparent_black">#99000000</color>
+    <color name="transparent_white">#AAFFFFFF</color>
+    <color name="green">#00BF9A</color>
+    <color name="blue">#1976D2</color>
+    <color name="orange">#FF8A65</color>
+    <color name="gray">#CFD8DC</color>
+    <color name="purple">#7B1FA2</color>
+    <color name="imgPlaceholder">#ffffff</color>
+    <color name="fullTransparent">#00000000</color>
+    <color name="hint_color">#C1C7DE</color>
+    <color name="dark_blue">#1A237E</color>
+    <color name="light_gray">#E0E0E0</color>
+
+
+    <color name="light_blue">#90CAF9</color>
+    <color name="light_dark_blue">#9FA8DA</color>
+    <color name="light_green">#80CBC4</color>
+    <color name="light_orange">#FFCC80</color>
+    <color name="light_purple">#CE93D8</color>
+    <color name="light_red">#EF9A9A</color>
+
+    <color name="default_background">#EEEEEE</color>
+
+
+    <color name="trans">#80000000</color>
+    <color name="tran">#50000000</color>
+    <color name="detailsToolbar">#55000000</color>
+
+    <color name="notification_card_bg">#EFEFEF</color>
+
+    <color name="title_color">#818181</color>
+    <color name="toolbar_boarder">#e5e6ea</color>
+
+</resources>

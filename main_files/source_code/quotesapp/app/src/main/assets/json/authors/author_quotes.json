@@ -1,0 +1,97 @@
+{
+  "items": [
+    {
+      "author_name": "William Shakespeare",
+      "author_img": "https://drive.google.com/uc?id=1vRlhadBKZDtSWXzFEEn8owDgs6F4a14v",
+      "quotes": [
+        "<p>Love all, trust a few, do wrong to none -- William Shakespeare</p>",
+        "<p>A fool thinks himself to be wise, but a wise man knows himself to be a fool -- William Shakespeare&nbsp;</p>",
+        "<p>We know what we are, but know not what we may be -- William Shakespeare</p>",
+        "<p>If music be the food of love, play on -- William Shakespeare</p>",
+        "<p>One touch of nature makes the whole world kin -- William Shakespeare</p>",
+        "<p>It is not in the stars to hold our destiny but in ourselves -- William Shakespeare</p>",
+        "<p>No legacy is so rich as honesty -- William Shakespeare</p>",
+        "<p>Hell is empty and all the devils are here. William Shakespeare</p>"
+      ]
+    },
+    {
+      "author_name": "Albert Einstein",
+      "author_img": "https://drive.google.com/uc?id=1vRlhadBKZDtSWXzFEEn8owDgs6F4a14v",
+      "quotes": [
+        "<p>Look deep into nature, and then you will understand everything better -- Albert Einstein</p>",
+        "<p>Life is like riding a bicycle. To keep your balance, you must keep moving -- Albert Einstein</p>",
+        "<p>The hardest thing to understand in the world is the income tax -- Albert Einstein</p>",
+        "<p>The true sign of intelligence is not knowledge but imagination -- Albert Einstein</p>",
+        "<p>Education is what remains after one has forgotten what one has learned in school -- Albert Einstein</p>",
+        "<p>Try not to become a man of success, but rather try to become a man of value -- Albert Einstein</p>"
+      ]
+    },
+    {
+      "author_name": "Winston Churchill",
+      "author_img": "https://drive.google.com/uc?id=1vRlhadBKZDtSWXzFEEn8owDgs6F4a14v",
+      "quotes": [
+        "<p>Success is not final, failure is not fatal: it is the courage to continue that counts -- Winston Churchill</p>",
+        "<p>Success consists of going from failure to failure without loss of enthusiasm -- Winston Churchill</p>",
+        "<p>Attitude is a little thing that makes a big difference -- Winston Churchill</p>",
+        "<p>Never, never, never give up -- Winston Churchill</p>",
+        "<p>If you&#39;re going through hell, keep going -- Winston Churchill</p>",
+        "<p>I may be drunk, Miss, but in the morning I will be sober and you will still be ugly -- Winston Churchill</p>",
+        "<p>My most brilliant achievement was my ability to be able to persuade my wife to marry me -- Winston Churchill</p>",
+        "<p>We make a living by what we get, but we make a life by what we give -- Winston Churchill</p>",
+        "<p>The price of greatness is responsibility -- Winston Churchill</p>"
+      ]
+    },
+    {
+      "author_name": "Mahatma Gandhi",
+      "author_img": "https://drive.google.com/uc?id=1vRlhadBKZDtSWXzFEEn8owDgs6F4a14v",
+      "quotes": [
+        "<p>The weak can never forgive. Forgiveness is the attribute of the strong -- Mahatma Gandhi</p>",
+        "<p>First they ignore you, then they laugh at you, then they fight you, then you win. Mahatma Gandhi</p>",
+        "<p>Prayer is the key of the morning and the bolt of the evening -- Mahatma Gandhi</p>",
+        "<p>Honest disagreement is often a good sign of progress -- Mahatma Gandhi</p>",
+        "<p>You must be the change you wish to see in the world -- Mahatma Gandhi</p>",
+        "<p>The best way to find yourself is to lose yourself in the service of others -- Mahatma Gandhi</p>"
+      ]
+    },
+    {
+      "author_name": "Mark Twain",
+      "author_img": "https://drive.google.com/uc?id=1vRlhadBKZDtSWXzFEEn8owDgs6F4a14v",
+      "quotes": [
+        "<p>The secret of getting ahead is getting started -- Mark Twain</p>",
+        "<p>In the Spring, I have counted 136 different kinds of weather inside of 24 hours -- Mark Twain</p>",
+        "<p>Kindness is the language which the deaf can hear and the blind can see -- Mark Twain</p>",
+        "<p>Whenever you find yourself on the side of the majority, it is time to pause and reflect -- Mark Twain</p>",
+        "<p>Forgiveness is the fragrance that the violet sheds on the heel that has crushed it -- Mark Twain</p>",
+        "<p>Courage is resistance to fear, mastery of fear, not absence of fear -- Mark Twain</p>"
+      ]
+    },
+    {
+      "author_name": "Martin Luther King, Jr.",
+      "author_img": "https://drive.google.com/uc?id=1vRlhadBKZDtSWXzFEEn8owDgs6F4a14v",
+      "quotes": [
+        "<p>In the End, we will remember not the words of our enemies, but the silence of our friends -- Martin Luther King, Jr.</p>",
+        "<p>Faith is taking the first step even when you don&#39;t see the whole staircase -- Martin Luther King, Jr.</p>",
+        "<p>The time is always right to do what is right -- Martin Luther King, Jr.</p>",
+        "<p>We must accept finite disappointment, but never lose infinite hope -- Martin Luther King, Jr.</p>",
+        "<p>Our lives begin to end the day we become silent about things that matter -- Martin Luther King, Jr.</p>",
+        "<p>I have decided to stick with love. Hate is too great a burden to bear -- Martin Luther King, Jr.</p>",
+        "<p>Injustice anywhere is a threat to justice everywhere -- Martin Luther King, Jr.</p>"
+      ]
+    },
+    {
+      "author_name": "Abraham Lincoln",
+      "author_img": "https://drive.google.com/uc?id=1vRlhadBKZDtSWXzFEEn8owDgs6F4a14v",
+      "quotes": [
+        "<p>All that I am, or hope to be, I owe to my angel mother -- Abraham Lincoln</p>",
+        "<p>Nearly all men can stand adversity, but if you want to test a man&#39;s character, give him power -- Abraham Lincoln</p>",
+        "<p>No man has a good enough memory to be a successful liar -- Abraham Lincoln</p>",
+        "<p>I am a slow walker, but I never walk back -- Abraham Lincoln</p>",
+        "<p>Be sure you put your feet in the right place, then stand firm -- Abraham Lincoln</p>",
+        "<p>Tact is the ability to describe others as they see themselves -- Abraham Lincoln</p>",
+        "<p>Whatever you are, be a good one -- Abraham Lincoln</p>",
+        "<p>The ballot is stronger than the bullet -- Abraham Lincoln</p>",
+        "<p>Most folks are as happy as they make up their minds to be -- Abraham Lincoln</p>"
+      ]
+    }
+  ]
+}
